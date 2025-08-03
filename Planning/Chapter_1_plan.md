@@ -4,8 +4,8 @@ Ch1
 - [x] Aster offers Kiara a rock
 - [x] Aster introduces herself as "Aslan Lastname"
       Ch2
-- [ ] Kiara thinks Aster is from her "chat" and states that she doesn't "stream" any more
-- [ ] Aster and Kiara are mutually suspicious that the other is a fey -- starting from Aster
+- [x] Kiara thinks Aster is from her "chat" and states that she doesn't "stream" any more
+- [x] Aster and Kiara are mutually suspicious that the other is a fey -- starting from Aster
       Ch3
 - [ ] Explore the mines together
       Ch4
